@@ -46,8 +46,7 @@ nav a {
 
 nav a:hover {
   color: deepskyblue;
-  text-decoration: line-through;
-}
+ }
 
 /* header section */
 header {
@@ -71,7 +70,7 @@ header h1 span:hover {
 /* about me section */
 .about {
   background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 1)),
-    url("../images/img/stars.png");
+    url("../img/stars.png");
   background-size: cover;
   background-attachment: fixed;
 }
