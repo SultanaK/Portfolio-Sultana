@@ -99,7 +99,7 @@ header h2 span:hover {
   flex-wrap: wrap;
   justify-content: space-between;
   list-style-type: none;
-  padding-left: 0px;
+  padding-left: 70px;
   text-align: right;
 
 }
@@ -148,7 +148,10 @@ header h2 span:hover {
   background-color: salmon;
 }
 
-
+.react{
+  width: 85%;
+  background-color: rgb(32, 88, 88);
+}
 .node {
   width: 80%;
   background-color: #808080;
@@ -188,7 +191,6 @@ header h2 span:hover {
 .column {
   float: left;
   width: 25%;
-  /* height:inherit; */
 }
 
 /* Clear floats after rows */
@@ -201,7 +203,8 @@ header h2 span:hover {
 /* Content */
 .content {
   background-color: white;
-  padding: 10px;
+  height: 550px;
+ /*  padding: 10px; */
 }
 /* footer */
 .social {
@@ -227,11 +230,10 @@ header h2 span:hover {
 }
 /* Add a hover effect if you want */
 .fa:hover {
-  /* opacity: 0.7;
- */  color: salmon;
+   /* opacity: 0.7; */
+  color: salmon;
   
 }
-
 
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
