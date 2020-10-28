@@ -13,11 +13,15 @@ margin: 0;
   text-align: center;
 }
 
-img {
-  border-radius: 50%;
-  height:250px;
+#profile {
+ border-radius: 50%;
+height:250px 
 }
-
+img {
+  border-radius:55%;
+ /*  height:250px;  */
+  height: auto  ; 
+}
 h1 {
   font-size: 30px;
 }
