@@ -16,7 +16,7 @@ https://sultanak.github.io/Portfolio-Sultana/
 </p>
 
 ### Programming Languages  :rocket:
-|<img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/psql.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/express.jfif" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/figma.jfif" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/node.png" width=60> | | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/sass.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/wirwframe.png" width=60> | 
+|<img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/react.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/psql.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/express.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/figma.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/node.png" width=60> | | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/sass.png" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/wireframe.png" width=60> | 
 
 
 
