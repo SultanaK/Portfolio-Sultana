@@ -21,7 +21,7 @@ https://sultanak.github.io/Portfolio-Sultana/
 
 
 ### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/vsCode.jfif" width=60> |
+|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://github.com/SultanaK/Portfolio-Sultana/blob/master/img/vsCode.png" width=60> |
 |:---:|:---:|:---:|
 
 ### Connect with me :smiley:
