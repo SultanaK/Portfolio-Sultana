@@ -1,5 +1,5 @@
 
-# Portfolio-Khandaker Sultana<a href="https://sultanak.github.io/Portfolio-Sultana/">
+# Portfolio-Khandaker Sultana
   
   ### Basic Portfolio with HTML,CSS and JavaScript
 
@@ -12,7 +12,7 @@ https://sultanak.github.io/Portfolio-Sultana/
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://coderjojo.netlify.app/">Khandaker Sultana</a> currently a software Engineering student at <a href="https://www.thinkful.com/">@Thinkful :school: </a> and aspiring software developer:computer:. Interested in working on Full stack software development. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://sultanak.github.io/Portfolio-Sultana/">Khandaker Sultana</a> currently a software Engineering student at <a href="https://www.thinkful.com/">@Thinkful :school: </a> and aspiring software developer:computer:. Interested in working on Full stack software development. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
