@@ -267,9 +267,9 @@ header h2 span:hover {
 }
 
 /* Responsive layout - makes a for four columns instead of two columns */
-   @media screen and (min-width: 600px)and (max-width: 1099px) {
+   /* @media screen and (min-width: 600px)and (max-width: 1099px) {
   .column {
 float: left;    
 width:50%;
-}} 
+}}  */
   
