@@ -1,15 +1,4 @@
 
-
-
-/* Nav */
-
-
-
-/* HERO/ABOUT //////////////////////////////////////*/
-
-
-
-
 /* PROJECTS //////////////////////////////////////*/
 
 .project {
@@ -22,9 +11,6 @@
 .project img {
     width: 100%;
     filter: drop-shadow(0 0 0.75rem rgba(0, 0, 0, 0.3));
-
-    /* border: 2px solid black; */
-    /* opacity: 0.5; */
 }
 
 
