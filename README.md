@@ -13,7 +13,7 @@ https://sultanak.github.io/Portfolio-Sultana/
   <br><br>
   
   <samp>
-    I'm <a href="https://sultanak.github.io/Portfolio-Sultana/">Khandaker Sultana</a> I have graduated from a software Engineering at <a href="https://www.thinkful.com/">@Thinkful :school: </a> and aspiring software developer:computer:. Interested in working on Full stack software development in 2020 and join JPMorgan chase as a softwase engingeer in 2021. Currently I am studing master of science in Management Information Systems In Lamar University.Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://sultanak.github.io/Portfolio-Sultana/">Khandaker Sultana.</a> I have graduated from  <a href="https://www.thinkful.com/">@Thinkful :school: </a> in software Engineering  in 2020 and join JPMorgan chase as a softwase engingeer in 2021 and aspiring :software develope :computer computer enthusiastic:: Interested in on Full stack software development. Currently I am studing master of science in Management Information Systems at Lamar University. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
